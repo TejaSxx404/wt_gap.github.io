@@ -1,0 +1,63 @@
+[
+    {
+        "id":1,
+        "title":"Write the process and Design, Smart Irrigation System (SIS) for Farmer. Rubrics: Each step 1M (Strictly follow the steps involve in IoT system design)",
+        "link":"https://drive.google.com/file/d/1uxEMdCfXCSOm2Z7ORDNJZI7FrahyAQul/view?usp=sharing"
+    },
+    {
+        "id":2,
+        "title":"Study of Raspberry-Pi, Beagle board, Arduino and other micro controller ( History & Elevation) ",
+        "link":"https://drive.google.com/file/d/1vBWFbW-yHjiLMDZDEsD6WSNzEGxlcr4z/view?usp=sharing"
+    },
+    {
+        "id":3,
+        "title":"Study of different operating systems for Raspberry-Pi /Beagle board. Understanding the process of OS installation on Raspberry-Pi /Beagle board",
+        "link":"https://drive.google.com/file/d/1vHMaeaPUwgKFtRqbprUY8MzOo13H_52P/view?usp=sharing"
+    },
+    {
+        "id":4,
+        "title":"Study of Connectivity and configuration of Raspberry-Pi /Beagle board circuit with basic peripherals, LEDS. Understanding GPIO and its use in program.",
+        "link":"https://drive.google.com/file/d/1vJMmPTWC4uQo65UNkRaZpxT3lApIyq9e/view?usp=sharing"
+    },
+    {
+        "id":5,
+        "title":"Understanding the connectivity of Raspberry-Pi /Beagle board circuit with temperature sensor. Write an application to read the environment temperature. If temperature crosses a threshold value, the application indicated user using LEDSs",
+        "link":"https://drive.google.com/file/d/1veRE4fxG4ALxfrVSv3L9nWyhlxHM4din/view?usp=sharing"
+    },
+    {
+        "id":6,
+        "title":"Understanding the connectivity of Raspberry-Pi /Beagle board circuit with IR sensor. Write an application to detect obstacle and notify user using LEDs",
+        "link":"https://drive.google.com/file/d/1vKNkbWDnSnBIkpCGAZUGmfQHLzQVWYpv/view?usp=sharing"
+    },
+    {
+        "id":7,
+        "title":"Understanding and connectivity of Raspberry-Pi /Beagle board with camera. Write an pplication to capture and store the image.",
+        "link":"https://drive.google.com/file/d/1vQ_i4cwKsLRS6GH3yowRokbpBEGFgqnp/view?usp=sharing"
+    },
+    {
+        "id":8,
+        "title":"Understanding and connectivity of Raspberry-Pi /Beagle board with a Zigbee module. Write a network application for communication between two devices using Zigbee.",
+        "link":"https://drive.google.com/file/d/1vRQcaEGs9094D-kJp0aUGr-xUO-9e6TF/view?usp=sharing"
+    },
+    {
+        "id":9,
+        "title":"Study of different CPU frequency governors. Write an application to change CPU frequency of Raspberry-Pi /Beagle board",
+        "link":"https://drive.google.com/file/d/1uyvpfc1o8vCg-CsgbzWelnlNZM84ngx9/view?usp=sharing"
+    },
+    {
+        "id":10,
+        "title":"Write an application using Raspberry-Pi /Beagle board to control the operation of stepper motor.",
+        "link":"https://drive.google.com/file/d/1v4OZfmTUvFZb6hyafRXmkCbI7fk9l0KQ/view?usp=sharing"
+    },
+    {
+        "id":11,
+        "title":"Write an application using Raspberry-Pi /Beagle board to control the operation of a hardware simulated traffic signal.",
+        "link":"https://drive.google.com/file/d/1v9Lm3RqiRM_y5K-hXzdaWWQWBJC4hADl/view?usp=sharing"
+    },
+    {
+        "id":12,
+        "title":"Write an application using Raspberry-Pi /Beagle board to control the operation of a hardware simulated traffic signal.",
+        "link":"https://drive.google.com/file/d/1v9jgP0USCTg-9-uWnbrSJKU5lHDEuBS6/view?usp=sharing"
+    }
+    
+]

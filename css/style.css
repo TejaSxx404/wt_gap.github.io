@@ -1,0 +1,294 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url('https://www.desktopbackground.org/download/o/2010/06/17/34466_top-gym-background-images-for-pinterest_1920x1080_h.jpg');
+    margin:auto;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    width: 100vw;
+}
+header{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(251, 240, 255);
+    box-shadow: 0px 1px 10px rgba(128, 128, 128, 0.452);
+    padding: 20px;
+    width: 100%;
+
+}
+
+header img{
+    height: 100px;
+}
+
+
+
+main{
+    display: flebox;
+    color: #fad7f8;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin:40px auto;
+}
+
+.subjects{
+    margin: auto auto;
+    width: 80%;  
+    
+}
+
+
+marquee{
+    min-width: 50px;
+}
+.title{  
+    margin: auto;
+    text-align: center;
+}
+
+
+/* .line{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+} */
+
+footer{
+    background-image: url('https://www.desktopbackground.org/download/o/2010/06/17/34466_top-gym-background-images-for-pinterest_1920x1080_h.jpg');
+    margin-top: auto;
+    padding: 15px;
+    text-align: center;
+    background-color: rgb(195, 105, 236);
+}
+footer p{
+    color: white;
+    font-weight: 700;
+}
+
+.spread{
+    box-shadow: 1px 1px 10px rgba(253, 253, 255, 0.26);
+    height: 15rem;
+    position: relative;
+    
+}
+
+
+/* .spread:hover{
+    
+    transform: scale(1.05);
+    transition: all 0.5s ease-in-out;
+} */
+
+
+.names_subject{
+    cursor: pointer ;
+}
+
+
+
+/* subject wise styling */
+
+
+.title_subs{
+    width: 80vw;
+    opacity:1;
+    background-color: rgba(73, 96, 196, 0);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    padding: 3rem 2rem;
+    color: aliceblue;
+    display: flex;
+}
+.back_btn img{
+    height: 50px;
+    width: 50px;
+    color: rgb(0, 0, 0);
+}
+
+
+.sub_name{
+    font-size: 50px;
+       
+}
+
+/* .esiot_sub{
+    width: 80%;
+    
+} */
+.assignments_show{
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.assignments_show .as_data {
+
+    padding: 20px;
+    border: 2px solid rgb(128, 128, 128);
+    display: flex;
+    flex-direction: column;
+}
+
+.assignments_show .elements_as{
+    width: 80vw;
+    padding:20px; 
+    border:1px solid rgb(128, 128, 128);
+    margin:20px auto;
+    box-shadow:1px 1px 5px rgb(128, 128, 128);
+
+}
+
+
+.assignments_show .elements_as .token{
+    font-weight:700;
+}
+
+
+.sub_title{
+    width: 100%;
+    height: 10%;
+    text-align: center;
+   
+    background: rgba(145, 45, 45, 0.918);
+    color: aliceblue;
+    z-index: 0;
+    font-weight: 900;
+    position: absolute;
+    bottom: 0;
+    letter-spacing: 10px;
+}
+
+.link_esiot {
+    color: blueviolet;
+}
+
+.assignments_show a{
+    color: rgb(253, 253, 255);
+    font-style: italic;
+}
+/* subjectwise styling ends */
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:600px){
+    header{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        opacity: 0.9;
+        background-color: aliceblue;
+        box-shadow: 0px 1px 10px rgba(128, 128, 128, 0.452);
+        padding: 2px;
+        width: 100%;
+    
+    }
+    header img{
+        height: 60px;
+        margin: auto;
+    }
+
+    header p{
+      
+        /* width: 350px; */
+        text-align: center;
+        font-size: 15px;
+    }
+    .line{
+        display: flex;
+        flex-direction: column;
+        margin: auto;
+        justify-content: center;
+    }
+    header{
+        width: 100vw;
+    }
+    main{
+        margin: 190px;
+    }
+    .subjects{
+        display: flex;
+        margin: 20px auto;
+    }
+    .spread{
+       
+        width: 250px;
+    }
+    /* .esiot_sub{
+      
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+    } */
+    
+    /* .title_subs{
+       
+        background-color: rgb(78, 80, 80);
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+        padding: 2rem 1rem;
+        color: aliceblue;
+        margin: auto auto; 
+    } */
+    .sub_name{
+        font-size: 20px;
+           
+    }
+
+    .subs{
+        margin: 20px auto;
+    }
+
+    .title_subs{
+        width: 90%;
+        padding: 2rem 1rem;
+        margin: auto auto; 
+    }
+    
+    header p{
+        padding: 10px;
+        font-size: 10px;
+    }
+    header img{
+        height: 40px;
+    }
+        main{
+        width: 300px;
+        padding: 20px auto;
+        margin-top: 20px;
+    }
+    .assignments_show{        
+        width: 90%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+       font-size: 13px;
+    }
+    .assignments_show .elements_as{
+        width: 95%;
+    }
+
+    
+}
+
+
+
+/* @media screen and (max-width:900px), (max-height:754px){
+    
+  
+} */
